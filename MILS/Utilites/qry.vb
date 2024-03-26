@@ -16,8 +16,8 @@ Public Class qry
     Public SQL As New sqlcon
     Private f As New functions
 
-    'Public path As String = "\\172.16.7.7\MILS_v3\EVERMORE\Live\Evermore\MILS\"
-    Public path As String = "C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\"
+
+    'Public path As String = "C:\Users\HSDP_SYS_DEV\Desktop\WORK\PNMI\MILS-PNMI\MILS\"
     Public Sub reportlog()
         Dim RPuser1 As String = "HSDP_DEPOT"
         Dim RPpass2 As String = "123456$hsdp"
